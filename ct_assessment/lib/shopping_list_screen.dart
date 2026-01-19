@@ -168,7 +168,7 @@ class _TotalPriceDelegate extends SliverPersistentHeaderDelegate {
   double get maxExtent => 105.0;
 
   @override
-  double get minExtent => 100.0;
+  double get minExtent => 105.0;
 
   @override
   bool shouldRebuild(covariant _TotalPriceDelegate oldDelegate) {
