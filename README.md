@@ -17,4 +17,4 @@ I spent around four hours working on this project.
 
 ### Demo
 
-
+<video src='https://github.com/user-attachments/assets/78e601a7-bd14-44b4-9f76-139e7a9d7a8d' controls></video>
